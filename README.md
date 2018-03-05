@@ -48,11 +48,12 @@ Space Syntax Limited is a consultancy that applies these techniques to help shap
 Format  | Download |
 --|--
 **View Online on our website**  | <a href="https://www.spacesyntax.com/OpenMapping"><img src="https://img.shields.io/badge/spacesyntax.com/OpenMapping-Online-red.svg?style=flat-square"></a>
-GeoJSON  | <a href="https://github.com/spacesyntax/OpenMapping/releases/download/gb-v1/ssx_OpenMapping_gb_v1_geojson.zip" download="ssx_OpenMapping_gb_v1_geojson.zip"><img src="https://img.shields.io/badge/.zip-410MB-green.svg?style=flat-square"></a>
-GeoPackage  | <a href="https://github.com/spacesyntax/OpenMapping/releases/download/gb-v1/ssx_OpenMapping_gb_v1_gpkg.zip" download="ssx_OpenMapping_gb_v1_gpkg.zip"><img src="https://img.shields.io/badge/.zip-300MB-green.svg?style=flat-square"></a>
-CSV  | <a href="https://github.com/spacesyntax/OpenMapping/releases/download/gb-v1/ssx_OpenMapping_gb_v1_csv.zip" download="ssx_OpenMapping_gb_v1_csv.zip"> <img src="https://img.shields.io/badge/.zip-294MB-green.svg?style=flat-square"></a>
-Shapefile  | <a href="https://github.com/spacesyntax/OpenMapping/releases/download/gb-v1/ssx_OpenMapping_gb_v1_shp.zip" download="ssx_OpenMapping_gb_v1_shp.zip"> <img src="https://img.shields.io/badge/.zip-410MB-orange.svg?style=flat-square"></a>
-WMS API  | <a href="https://github.com/spacesyntax/OpenMapping/releases/download/gb-v1/ssx_OpenMapping_gb_v1_shp.zip" download="ssx_OpenMapping_gb_v1_shp.zip"> <img src="https://img.shields.io/badge/WMS-API-red.svg?style=flat-square"></a>
+GeoJSON  | <a href="https://github.com/spacesyntax/OpenMapping/releases/download/gb-v1/ssx_OpenMapping_gb_v1_geojson.zip" download="ssx_OpenMapping_gb_v1_geojson.zip"><img src="https://img.shields.io/badge/.zip-340MB-green.svg?style=flat-square"></a>
+GeoPackage  | <a href="https://github.com/spacesyntax/OpenMapping/releases/download/gb-v1/ssx_OpenMapping_gb_v1_gpkg.zip" download="ssx_OpenMapping_gb_v1_gpkg.zip"><img src="https://img.shields.io/badge/.zip-327MB-green.svg?style=flat-square"></a>
+CSV  | <a href="https://github.com/spacesyntax/OpenMapping/releases/download/gb-v1/ssx_OpenMapping_gb_v1_csv.zip" download="ssx_OpenMapping_gb_v1_csv.zip"> <img src="https://img.shields.io/badge/.zip-253MB-green.svg?style=flat-square"></a>
+MIF (Mapinfo)  | <a href="https://github.com/spacesyntax/OpenMapping/releases/download/gb-v1/ssx_OpenMapping_gb_v1_mif.zip" download="ssx_OpenMapping_gb_v1_mif.zip"> <img src="https://img.shields.io/badge/.zip-274MB-orange.svg?style=flat-square"></a>  |  
+Shapefile (ArcGIS)  | <a href="https://github.com/spacesyntax/OpenMapping/releases/download/gb-v1/ssx_OpenMapping_gb_v1_shp.zip" download="ssx_OpenMapping_gb_v1_shp.zip"> <img src="https://img.shields.io/badge/.zip-356MB-orange.svg?style=flat-square"></a>
+<!-- WMS API  | <a href="https://github.com/spacesyntax/OpenMapping/releases/download/gb-v1/ssx_OpenMapping_gb_v1_shp.zip" download="ssx_OpenMapping_gb_v1_shp.zip"> <img src="https://img.shields.io/badge/WMS-API-red.svg?style=flat-square"></a> -->
 
 This package contains the following data:
 

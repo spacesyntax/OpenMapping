@@ -85,7 +85,7 @@ Space Syntax recommend using the cross platform open source QGIS software for vi
 | Version               | gb-v1                     |
 | Published by          | [Space Syntax Limited](http://www.spacesyntax.com)      |
 | License        | <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /> CC BY-SA 4.0</a> -  [Attribution](#license)            |
-| Open Data Certificate   | [Silver](https://certificates.theodi.org/en/datasets/216167/certificate/) |
+| Open Data Certificate   | <a href="https://certificates.theodi.org/en/datasets/216167/certificate/"><img src="https://certificates.theodi.org/en/datasets/216167/certificate/badge.png"></a> |
 
 ### Data Summary
 Space Syntax OpenMapping cleans up and then explodes the road geometry of [OS Meridian 2](https://www.ordnancesurvey.co.uk/docs/user-guides/meridian-2-user-guide.pdf) (a simplified road network product by Ordnance Survey) into individual road segments. This means multiple road segments may represent only one road in the original Meridian data. The exploded road network is then analysed adapting graph measures of Betweeness Centrality (Choice) and Closeness Centrality (Integration) at scales of 2km, 10km, and 100km.

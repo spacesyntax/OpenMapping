@@ -74,8 +74,6 @@ Space Syntax recommend using the cross platform open source QGIS software for vi
 
 ## Reference
 
-<script src='https://certificates.theodi.org/en/datasets/216167/certificate/badge.js'></script>
-
 | Metadata              | Value                     |
 |-----------------------|---------------------------|
 | Name                 | Space Syntax OpenMapping |

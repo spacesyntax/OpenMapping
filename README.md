@@ -47,7 +47,7 @@ Space Syntax Limited is a consultancy that applies these techniques to help shap
 ## Access Data
 Format  | Download |
 --|--
-**View Online on our website**  | <a href="https://www.spacesyntax.com/OpenMapping"><img src="https://img.shields.io/badge/spacesyntax.com/OpenMapping-Online-red.svg?style=flat-square"></a>
+**View Online on our website**  | <a href="https://www.spacesyntax.com/openmapping"><img src="https://img.shields.io/badge/spacesyntax.com/openmapping-Online-red.svg?style=flat-square"></a>
 GeoPackage  | <a href="https://github.com/spacesyntax/OpenMapping/releases/download/gb-v1/ssx_OpenMapping_gb_v1_gpkg.zip" download="ssx_OpenMapping_gb_v1_gpkg.zip"><img src="https://img.shields.io/badge/.zip-327MB-green.svg?style=flat-square"></a>
 CSV  | <a href="https://github.com/spacesyntax/OpenMapping/releases/download/gb-v1/ssx_OpenMapping_gb_v1_csv.zip" download="ssx_OpenMapping_gb_v1_csv.zip"> <img src="https://img.shields.io/badge/.zip-253MB-green.svg?style=flat-square"></a>
 GeoJSON  | <a href="https://github.com/spacesyntax/OpenMapping/releases/download/gb-v1/ssx_OpenMapping_gb_v1_geojson.zip" download="ssx_OpenMapping_gb_v1_geojson.zip"><img src="https://img.shields.io/badge/.zip-340MB-green.svg?style=flat-square"></a>

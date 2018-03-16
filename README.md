@@ -41,18 +41,19 @@ The data is licensed under [CC BY-SA 4.0](#license). This allows people to use a
 We are very interested in what people do with the data, so please get in touch with any questions, issues, ideas or experiments, either via <a href="mailto:info@spacesyntax.com?Subject=OpenMapping">info@spacesyntax.com</a> or the [**issues page**](https://github.com/spacesyntax/OpenMapping/issues).
 
 ### About Space Syntax Limited
-Space Syntax Limited is a consultancy that applies these techniques to help shape and inform planning and design decisions. Find out more about Space Syntax Limited on [**our website**](https://www.spacesyntax.com).
+Space Syntax Limited is a consultancy that applies these techniques to help shape and inform planning and design decisions. Find out more about Space Syntax Limited on [**our website**](http://www.spacesyntax.com).
 
 
 ## Access Data
 Format  | Download |
 --|--
-**View Online on our website**  | <a href="https://www.spacesyntax.com/OpenMapping"><img src="https://img.shields.io/badge/spacesyntax.com/OpenMapping-Online-red.svg?style=flat-square"></a>
-GeoJSON  | <a href="https://github.com/spacesyntax/OpenMapping/releases/download/gb-v1/ssx_OpenMapping_gb_v1_geojson.zip" download="ssx_OpenMapping_gb_v1_geojson.zip"><img src="https://img.shields.io/badge/.zip-340MB-green.svg?style=flat-square"></a>
+**View Online on our website**  | <a href="http://www.spacesyntax.com/openmapping"><img src="https://img.shields.io/badge/spacesyntax.com/openmapping-Online-red.svg?style=flat-square"></a>
 GeoPackage  | <a href="https://github.com/spacesyntax/OpenMapping/releases/download/gb-v1/ssx_OpenMapping_gb_v1_gpkg.zip" download="ssx_OpenMapping_gb_v1_gpkg.zip"><img src="https://img.shields.io/badge/.zip-327MB-green.svg?style=flat-square"></a>
 CSV  | <a href="https://github.com/spacesyntax/OpenMapping/releases/download/gb-v1/ssx_OpenMapping_gb_v1_csv.zip" download="ssx_OpenMapping_gb_v1_csv.zip"> <img src="https://img.shields.io/badge/.zip-253MB-green.svg?style=flat-square"></a>
-MIF (Mapinfo)  | <a href="https://github.com/spacesyntax/OpenMapping/releases/download/gb-v1/ssx_OpenMapping_gb_v1_mif.zip" download="ssx_OpenMapping_gb_v1_mif.zip"> <img src="https://img.shields.io/badge/.zip-274MB-orange.svg?style=flat-square"></a>  |  
+GeoJSON  | <a href="https://github.com/spacesyntax/OpenMapping/releases/download/gb-v1/ssx_OpenMapping_gb_v1_geojson.zip" download="ssx_OpenMapping_gb_v1_geojson.zip"><img src="https://img.shields.io/badge/.zip-340MB-green.svg?style=flat-square"></a>
+MIF (Mapinfo)  | <a href="https://github.com/spacesyntax/OpenMapping/releases/download/gb-v1/ssx_OpenMapping_gb_v1_mif.zip" download="ssx_OpenMapping_gb_v1_mif.zip"> <img src="https://img.shields.io/badge/.zip-274MB-orange.svg?style=flat-square"></a>
 Shapefile (ArcGIS)  | <a href="https://github.com/spacesyntax/OpenMapping/releases/download/gb-v1/ssx_OpenMapping_gb_v1_shp.zip" download="ssx_OpenMapping_gb_v1_shp.zip"> <img src="https://img.shields.io/badge/.zip-356MB-orange.svg?style=flat-square"></a>
+
 <!-- WMS API  | <a href="https://github.com/spacesyntax/OpenMapping/releases/download/gb-v1/ssx_OpenMapping_gb_v1_shp.zip" download="ssx_OpenMapping_gb_v1_shp.zip"> <img src="https://img.shields.io/badge/WMS-API-red.svg?style=flat-square"></a> -->
 
 This package contains the following data:
@@ -67,7 +68,7 @@ Data:
 + `csv`/`geojson`/`gpkg`/`mif`/`shp` - containing the model in your chosen format
 + `qgis-styles` - QML style files compatible with QGIS, each file is named after the corresponding attribute in the model
 
-Space Syntax recommend using the cross platform open source QGIS package for viewing and analysing the data.  [**Download QGIS**](https://www.qgis.org/)
+Space Syntax recommend using the cross platform open source QGIS software for viewing and analysing the data.  [**Download QGIS**](https://www.qgis.org/) We also recommend using the [GeoPackage](http://www.geopackage.org/) version of the data as the modern & open standard for GIS data.
 
 **Note** Due to the shapefile column limit of 10 characters, the shapefile version will have truncated column names, please refer to the metadata schema for the full column names.
 
@@ -82,6 +83,7 @@ Space Syntax recommend using the cross platform open source QGIS package for vie
 | Version               | gb-v1                     |
 | Published by          | [Space Syntax Limited](http://www.spacesyntax.com)      |
 | License        | <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /> CC BY-SA 4.0</a> -  [Attribution](#license)            |
+| Open Data Certificate   | <a href="https://certificates.theodi.org/en/datasets/216167/certificate/"><img width="50px" src="https://certificates.theodi.org/en/datasets/216167/certificate/badge.png"></a> |
 
 ### Data Summary
 Space Syntax OpenMapping cleans up and then explodes the road geometry of [OS Meridian 2](https://www.ordnancesurvey.co.uk/docs/user-guides/meridian-2-user-guide.pdf) (a simplified road network product by Ordnance Survey) into individual road segments. This means multiple road segments may represent only one road in the original Meridian data. The exploded road network is then analysed adapting graph measures of Betweeness Centrality (Choice) and Closeness Centrality (Integration) at scales of 2km, 10km, and 100km.

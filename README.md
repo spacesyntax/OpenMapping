@@ -40,9 +40,11 @@ The data is licensed under [CC BY-SA 4.0](#license). This allows people to use a
 
 We are very interested in what people do with the data, so please get in touch with any questions, issues, ideas or experiments, either via <a href="mailto:info@spacesyntax.com?Subject=OpenMapping">info@spacesyntax.com</a> or the [**issues page**](https://github.com/spacesyntax/OpenMapping/issues).
 
-## Limitations
+
+### Limitations
 
 Space Syntax OpenMapping was originally created from a simplified street centreline network in 2018. This simplified dataset does not include all streets or pedestrian spaces. There may also have been newer urban developments missing from the dataset. This affects local scale choice measures most, and the dataset should not be used in isolation to address questions around pedestrian movement within cities.
+
 
 ### About Space Syntax Limited
 Space Syntax Limited is a consultancy that applies these techniques to help shape and inform planning and design decisions. Find out more about Space Syntax Limited on [**our website**](http://www.spacesyntax.com).

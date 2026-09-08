@@ -43,7 +43,7 @@ We are very interested in what people do with the data, so please get in touch w
 
 ### Limitations
 
-Space Syntax OpenMapping was originally created from a simplified street centreline network in 2018. This simplified dataset does not include all streets or pedestrian spaces. There may also have been newer urban developments missing from the dataset. This affects local scale choice measures most, and the dataset should not be used in isolation to address questions around pedestrian movement within cities.
+Space Syntax OpenMapping was originally created from a simplified street centreline network in 2018. This simplified dataset does not include all streets or pedestrian spaces. There may also be recently completed urban development missing from the dataset. This affects local scale choice measures most, and the dataset should not be used in isolation to address questions around pedestrian movement within cities.
 
 
 ### About Space Syntax Limited

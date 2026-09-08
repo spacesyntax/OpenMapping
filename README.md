@@ -38,7 +38,7 @@ Space Syntax OpenMapping is a Great Britain wide dataset that includes analytic 
 
 The data is licensed under [CC BY-SA 4.0](#license). This allows people to use and modify the data as long as it is attributed to Space Syntax, and that any modifications are shared back under the same terms. By licensing the data in this way we hope to encourage wider exploration, innovation and application.
 
-We are very interested in what people do with the data, so please get in touch with any questions, issues, ideas or experiments, either via <a href="mailto:info@spacesyntax.com?Subject=OpenMapping">info@spacesyntax.com</a> or the [**issues page**](https://github.com/spacesyntax/OpenMapping/issues).
+We are interested in what people do with the data, so please get in touch with any questions, issues, ideas or experiments, either via <a href="mailto:info@spacesyntax.com?Subject=OpenMapping">info@spacesyntax.com</a> or the [**issues page**](https://github.com/spacesyntax/OpenMapping/issues).
 
 
 ### Limitations
@@ -47,7 +47,7 @@ Space Syntax OpenMapping was originally created from a simplified street centrel
 
 
 ### About Space Syntax Limited
-Space Syntax Limited is a consultancy that applies these techniques to help shape and inform planning and design decisions. Find out more about Space Syntax Limited on [**our website**](http://www.spacesyntax.com).
+Space Syntax Limited is a spatial intelligence consulting company that applies these techniques to help shape and inform planning and design decisions. Find out more about Space Syntax Limited on [**our website**](http://www.spacesyntax.com).
 
 
 ## Access Data
